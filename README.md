@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="WhatsApp%20Image%202026-07-01%20at%208.16.48%20PM.jpeg" width="180" style="border-radius:50%;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Sneha Gupta</h1>
 
