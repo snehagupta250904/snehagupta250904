@@ -50,7 +50,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href=https://www.linkedin.com/in/sneha-gupta-867288317/
+<a href="https://www.linkedin.com/in/sneha-gupta-867288317/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
